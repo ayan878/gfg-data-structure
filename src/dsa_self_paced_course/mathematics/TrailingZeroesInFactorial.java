@@ -12,7 +12,7 @@ public class TrailingZeroesInFactorial {
 	return N*Factorial(N-1);
 	}
 	
-    static int countTrailingZeros(long num) {
+    public static int countTrailingZeros(long num) {
         int count = 0;
         while (num % 10 == 0) {
             count++;
