@@ -1,6 +1,6 @@
 package dsa_self_paced_course.recursion;
 
-public class SumOfNaturalNumber {
+public class SumOfNaturalNumberUsingTailRecursion {
 
 	public static int SumOfNaturalNumber(int N,int k) {
 		// TODO Auto-generated constructor stub
